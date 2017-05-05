@@ -91,3 +91,4 @@ while $runpom; do
         runpom=false;
     fi
 done
+exit 0;
