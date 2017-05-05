@@ -33,4 +33,4 @@ using the default values, forever.
 # License
 pomodoro.sh is Licensed under the GNU GENERAL PUBLIC LICENSE 3.0. Please see the LICENSE file for more information.
 
-ding.wav is made by Corsica\_S, and is used under Creative Commons Attribution 3.0.
+ding.wav is made by [Corsica\_S](https://www.freesound.org/people/Corsica_S/sounds/91926/), and is used under Creative Commons Attribution 3.0.
